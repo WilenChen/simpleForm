@@ -1,0 +1,14 @@
+{
+  "name": "simpleForm",
+  "version": "0.0.1",
+  "discription":"To my friend",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies":{
+    "mime":"~1.2.7",
+    "jade":"*",
+    "http":"*",
+    "querystring":"*"
+  }
+}
